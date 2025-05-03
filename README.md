@@ -82,12 +82,14 @@ SafeStep 프로젝트는 일상생활에서 간과되기 쉬운 신발 밑창 �
 
 ## 👥 팀원 소개
 
-| 이름 | 역할 | 담당 업무 |
-|:---:|:---:|:---|
-| 본인 | 팀장/AI 개발 | • 신발 마모도 인식 알고리즘 개발<br>• 데이터셋 구축 및 모델 최적화 |
-| 팀원A | 하드웨어 설계 | • 전자회로 설계<br>• 센서 통합 및 제어 |
-| 팀원B | 백엔드 개발 | • 서버 구축<br>• DB 설계 및 관리 |
-| 팀원C | 프론트엔드 개발 | • UI/UX 디자인<br>• 웹 인터페이스 구현 |
+<div align="center">
+
+| **오경택(팀장)** | **홍훈의(부팀장)** | **임정환(조원)** | **조정호(조원)** |
+| :------: | :------: | :------: | :------: |
+| [<img src="https://github.com/user-attachments/assets/4e865b7d-c93f-477d-af75-31c7ac30d4ce" height=150> <br/> gyeongtaek.dev@gmail.com](#) | [<img src="https://github.com/user-attachments/assets/c18a97f8-7f4b-417e-96ff-4cec6845e58b" height=150> <br/> asdfzxcv5621@naver.com](#) | [<img src="https://github.com/user-attachments/assets/5d49bcec-07a8-4437-9647-9d77bcc3fa26" height=150> <br/> halim0214@gmail.com](#) | [<img src="https://github.com/user-attachments/assets/ae84cab1-b0ff-4336-af62-064a971fbf91" height=150> <br/> tmdrud7766@gmail.com](#) |
+
+</div>
+<br>
 
 ---
 
