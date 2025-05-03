@@ -86,7 +86,7 @@ SafeStep 프로젝트는 일상생활에서 간과되기 쉬운 신발 밑창 �
 
 | **오경택(팀장)** | **홍훈의(부팀장)** | **임정환(조원)** | **조정호(조원)** |
 | :------: | :------: | :------: | :------: |
-| [<img src="https://github.com/user-attachments/assets/4e865b7d-c93f-477d-af75-31c7ac30d4ce" height=150> <br/> gyeongtaek.dev@gmail.com](#) | [<img src="https://github.com/user-attachments/assets/c18a97f8-7f4b-417e-96ff-4cec6845e58b" height=150> <br/> asdfzxcv5621@naver.com](#) | [<img src="https://github.com/user-attachments/assets/5d49bcec-07a8-4437-9647-9d77bcc3fa26" height=150> <br/> halim0214@gmail.com](#) | [<img src="https://github.com/user-attachments/assets/ae84cab1-b0ff-4336-af62-064a971fbf91" height=150> <br/> tmdrud7766@gmail.com](#) |
+| [<img src="https://github.com/user-attachments/assets/4e865b7d-c93f-477d-af75-31c7ac30d4ce" height=150> <br/> gyeongtaek.dev@gmail.com](#) | [<img src="https://github.com/user-attachments/assets/c18a97f8-7f4b-417e-96ff-4cec6845e58b" height=150> <br/> asdfzxcv5621@naver.com](#) | [<img src="https://github.com/user-attachments/assets/5d49bcec-07a8-4437-9647-9d77bcc3fa26" height=150> <br/> halim0214@gmail.com](#) | [<img src="https://github.com/user-attachments/assets/ae84cab1-b0ff-4336-af62-064a971fbf91" height=150> <br/> peenut9708@daum.net](#) |
 
 </div>
 <br>
